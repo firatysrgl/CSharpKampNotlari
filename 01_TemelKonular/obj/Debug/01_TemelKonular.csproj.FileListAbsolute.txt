@@ -1,0 +1,8 @@
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\01_TemelKonular\bin\Debug\01_TemelKonular.exe.config
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\01_TemelKonular\bin\Debug\01_TemelKonular.exe
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\01_TemelKonular\bin\Debug\01_TemelKonular.pdb
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\01_TemelKonular\obj\Debug\01_TemelKonular.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\01_TemelKonular\obj\Debug\01_TemelKonular.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\01_TemelKonular\obj\Debug\01_TemelKonular.exe
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\01_TemelKonular\obj\Debug\01_TemelKonular.pdb
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\01_TemelKonular\obj\Debug\01_TemelKonular.exe.config
