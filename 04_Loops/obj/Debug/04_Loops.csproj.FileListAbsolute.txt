@@ -1,0 +1,8 @@
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.pdb
+C:\Users\FIRAT YUNUS\source\repos\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.exe.config
