@@ -59,17 +59,83 @@ namespace _04_Loops
             //    totalValue += i;
             //}
             //Console.WriteLine(totalValue);
-            
 
 
 
+            ////int bacterium = 1;
+
+            ////for (int i = 1; i<=24; i++)
+            ////{
+            ////    bacterium *= 2;
+            ////    Console.WriteLine(i + ". Saatte Bakteri Sayısı : " + bacterium);
+            //}
 
 
 
 
             #endregion
 
-        }
+
+            #region While Döngüsü
+
+            // While (Şart)
+            // {
+            //  İŞLEMLER
+            // }
+
+            //int İ = 0;
+
+            //while (İ<10)
+            //{
+            //    Console.WriteLine("FIRAT YUNUS");
+            //    İ++;
+            //}
+
+            //int i = 1;
+            //while (i <= 10)
+            //{
+            //    if (i % 3 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //    i++;
+            //}
+
+            //int i = 1;
+
+            //int sum = 0;
+
+
+            //while (i <=100)
+            //{
+            //    sum += i;
+            //    i ++;
+            //}
+            //Console.WriteLine(sum);
+            #endregion
+
+
+            #region Örnek Sınav Sorusu
+
+            //Console.Write("3 Basamaklı Bir Sayı Giriniz :");
+            //int sayi = int.Parse(Console.ReadLine());
+
+            //int hunders = sayi / 100;
+            //int ones = sayi % 10;
+            //int tens = sayi / 10 % 10;
+
+            //int total = hunders + tens + ones;
+
+            //Console.WriteLine("Basamak Toplamı : " + total);
+
+
+            #endregion
+
+
+
+            Console.Read();
+        } 
+
 
     }
 }
