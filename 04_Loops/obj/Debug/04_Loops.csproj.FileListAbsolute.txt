@@ -14,3 +14,11 @@ C:\Users\FIRAT YUNUS\Desktop\Projeler\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.
 C:\Users\FIRAT YUNUS\Desktop\Projeler\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
 C:\Users\FIRAT YUNUS\Desktop\Projeler\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.exe
 C:\Users\FIRAT YUNUS\Desktop\Projeler\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.pdb
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.exe.config
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\04_Loops\obj\Debug\04_Loops.pdb

@@ -1,0 +1,8 @@
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe.config
