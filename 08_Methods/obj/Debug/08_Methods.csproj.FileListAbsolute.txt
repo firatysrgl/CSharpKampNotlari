@@ -1,0 +1,8 @@
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\08_Methods\bin\Debug\08_Methods.exe.config
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\08_Methods\bin\Debug\08_Methods.exe
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\08_Methods\bin\Debug\08_Methods.pdb
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\08_Methods\obj\Debug\08_Methods.exe
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\08_Methods\obj\Debug\08_Methods.pdb
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\C#EgitimKampi\08_Methods\obj\Debug\08_Methods.exe.config
